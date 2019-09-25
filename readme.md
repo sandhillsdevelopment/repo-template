@@ -16,4 +16,5 @@ When the need for a new 'global' or 'semi-global' label is needed, we can discus
 Our issue and improvement templates should serve as a way to help produce quality requests to the development staff, that reduces the need for non-asyncronous conversations and explain in detail the needs from the development staff. This prevents a bug or improvement from needing 'followup' at a later date.
 
 [View the Label Standards](https://github.com/sandhillsdevelopment/repo-template/blob/master/labels.md)
+
 [View the Issue and PR Templates](https://github.com/sandhillsdevelopment/repo-template/tree/master/templates/.github)
