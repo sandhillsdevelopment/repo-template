@@ -14,7 +14,7 @@ Each label grouping has a specific 'hue' assigned to it. At most we should be us
 | type-feature | Functionality that does not exist. Should be used for new concepts only. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
 | type-improvement | Simliar to `type-feature` however denotes improving an existing feature. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
 | type-regression | Similar to `type-bug` however defines an issue as something that previously worked, but is no longer working. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
-| component-admin | Anything related to the adminsitrative control panels. | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
+| component-admin | Anything related to the administrative control panels. | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
 | component-api | Issues affecting (WP)REST APIs | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
 | component-cli | Integrations with command line interfaces like shell scripts or WP CLI | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
 | component-database | Custom database tables, schemas, data structures stored in the database. | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
