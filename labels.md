@@ -18,7 +18,7 @@ Each label grouping has a specific 'hue' assigned to it. At most we should be us
 | component-api | Issues affecting (WP)REST APIs | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
 | component-cli | Integrations with command line interfaces like shell scripts or WP CLI | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
 | component-database | Custom database tables, schemas, data structures stored in the database. | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
-| component-emails | The configuration, genrating, and sending of emails. | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
+| component-emails | The configuration, generating, and sending of emails. | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
 | component-meta | When data storage must use the meta concept. | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
 | component-settings | Affecting the rendering, saving, retrieving, and logic around our settings. | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
 | component-shortcodes | Related to the WordPress shortcode concept. | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
