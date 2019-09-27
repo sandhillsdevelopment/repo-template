@@ -9,7 +9,7 @@ Each label grouping has a specific 'hue' assigned to it. At most we should be us
 | Label | Description | Color
 | --- | --- | --- 
 | type-bug | Denotes a bug or defect in the project. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
-| type-request | Used to identify requests for features or imrovements that still need to be 'blessed' by the project lead(s) | ![#117864](https://placehold.it/15/117864/000000?text=+) `#117864` |
+| type-request | Used to identify requests for features or improvements that still need to be 'blessed' by the project lead(s) | ![#117864](https://placehold.it/15/117864/000000?text=+) `#117864` |
 | type-duplicate | When a `type-request` or `type-bug` is the same as one already submitted that has been blessed or confirmed. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
 | type-feature | Functionality that does not exist. Should be used for new concepts only. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
 | type-improvement | Simliar to `type-feature` however denotes improving an existing feature. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
