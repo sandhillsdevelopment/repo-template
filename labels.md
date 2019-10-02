@@ -4,16 +4,16 @@ This list of labels should be applied to each repository. Some repositories may 
 To request a change to an existing label, add a new label, or remove a label from the global list, [submit a new issue](https://github.com/sandhillsdevelopment/repo-template/issues/new/choose).
 
 ### Label Colors
-Each label grouping has a specific 'hue' assigned to it. At most we should be using 2 hues per group (with exception being the `priority` prefix which has 3 hues). The more saturated color (darker the color) means an action is needed. For instance the `type-request` ![#117864](https://placehold.it/15/117864/000000?text=+) is darker than the other `types` ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) as it denotes that a lead needs to assess the request, and assign the appropritae `type` label. Same for the `workflow` list. `workflow-has-pr` ![#F5CBA7](https://placehold.it/15/F5CBA7/000000?text=+) is not an 'actionable' status, where as `workflow-needs-testing` ![#AF601A](https://placehold.it/15/AF601A/000000?text=+) is, so `workflow-needs-testing` has a darker hue for the grouping.
+Each label grouping has a specific 'hue' assigned to it. At most we should be using 2 hues per group (with exception being the `priority` prefix which has 3 hues). The more saturated color (darker the color) means an action is needed. For instance the `workflow-has-pr` ![#F5CBA7](https://placehold.it/15/F5CBA7/000000?text=+) is not an 'actionable' status, where as `workflow-needs-testing` ![#AF601A](https://placehold.it/15/AF601A/000000?text=+) is, so `workflow-needs-testing` has a darker hue for the grouping.
 
 | Label | Description | Color
 | --- | --- | --- 
-| type-bug | Denotes a bug or defect in the project. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
-| type-request | Used to identify requests for features or imrovements that still need to be 'blessed' by the project lead(s) | ![#117864](https://placehold.it/15/117864/000000?text=+) `#117864` |
-| type-duplicate | When a `type-request` or `type-bug` is the same as one already submitted that has been blessed or confirmed. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
-| type-feature | Functionality that does not exist. Should be used for new concepts only. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
-| type-improvement | Simliar to `type-feature` however denotes improving an existing feature. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
-| type-regression | Similar to `type-bug` however defines an issue as something that previously worked, but is no longer working. | ![#76D7C4](https://placehold.it/15/76D7C4/000000?text=+) `#76D7C4` |
+| type-bug | Denotes a bug or defect in the project. | ![#FF2600](https://placehold.it/15/FF2600/000000?text=+) `#FF2600` |
+| type-request | Used to identify requests for features or imrovements that still need to be 'blessed' by the project lead(s) | ![#D9FF00](https://placehold.it/15/D9FF00/000000?text=+) `#D9FF00` |
+| type-duplicate | When a `type-request` or `type-bug` is the same as one already submitted that has been blessed or confirmed. | ![#D3D3D3](https://placehold.it/15/D3D3D3/000000?text=+) `#D3D3D3` |
+| type-feature | Functionality that does not exist. Should be used for new concepts only. | ![#00CD00](https://placehold.it/15/00CD00/000000?text=+) `#00CD00` |
+| type-improvement | Simliar to `type-feature` however denotes improving an existing feature. | ![#005AFF](https://placehold.it/15/005AFF/000000?text=+) `#005AFF` |
+| type-regression | Similar to `type-bug` however defines an issue as something that previously worked, but is no longer working. | ![#FFA500](https://placehold.it/15/FFA500/000000?text=+) `#FFA500` |
 | component-admin | Anything related to the adminsitrative control panels. | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
 | component-api | Issues affecting (WP)REST APIs | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
 | component-cli | Integrations with command line interfaces like shell scripts or WP CLI | ![#7FB3D5](https://placehold.it/15/7FB3D5/000000?text=+) `#7FB3D5` |
